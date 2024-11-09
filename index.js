@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-const url = 'http://test1.telegrambot9oks.free.nf/p.php';
+const url = 'https://test1.telegrambot9oks.free.nf/p.php';
 
 // Function to visit the website
 const visitWebsite = async () => {
